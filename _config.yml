@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Braindump"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Dumping everything that pops up in my mind"
+  bio    : "Dumping stuff that pops up in my mind"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
